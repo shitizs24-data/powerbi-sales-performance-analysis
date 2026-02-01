@@ -1,10 +1,10 @@
-# 📊 Sales Performance & Trend Analysis using Power BI
+# Sales Performance & Trend Analysis using Power BI
 
 This project presents an interactive Power BI dashboard built to analyze historical sales data, track key performance metrics, and identify time-based sales trends to support business decision-making.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 - Analyze overall sales performance over time
 - Track key sales KPIs at a high level
 - Identify trends, peaks, and slow periods in sales
@@ -12,7 +12,7 @@ This project presents an interactive Power BI dashboard built to analyze histori
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 - Sales transaction dataset containing:
   - Order date
   - Product category
@@ -24,7 +24,7 @@ The dataset has been cleaned and structured for analysis in Power BI.
 
 ---
 
-## 📌 Key Metrics & Analysis
+## Key Metrics & Analysis
 - Total Sales
 - Total Orders
 - Average Sales Value
@@ -34,31 +34,31 @@ The dataset has been cleaned and structured for analysis in Power BI.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI Desktop
 - Data cleaning & transformation
 - Interactive visuals and slicers
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 Below is the main overview page of the dashboard:
 
 ![Overall Dashboard](Dashboard_Screenshots/01_Overall_Dashboard.png)
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Sales show noticeable variation across time periods, indicating possible seasonality.
 - A limited number of categories contribute a major share of total sales.
 - Sales peaks and drops highlight opportunities for better planning and forecasting.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 
 ---
 
-## 📝 Notes
+## Notes
 This project was created during the early stage of learning Power BI and focuses on building strong fundamentals in dashboard design and sales analysis.
